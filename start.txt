@@ -1,2 +1,2 @@
-﻿//Done by Siddi
+﻿//Done by Siddi Vinayaka
 ﻿Test Git Quick Start demo
